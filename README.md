@@ -61,7 +61,7 @@ An agricultural marketplace platform that directly connects farmers with dealers
 
 | Platform | Profile |
 |----------|---------|
-| 💛 LeetCode | [Visit My Profile](https://leetcode.com/your-username) |
+| 💛 LeetCode | [Visit My Profile](https://leetcode.com/u/yngteja/) |
 
 ---
 
